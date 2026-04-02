@@ -41,7 +41,7 @@
 2.  °[`PAIR CODE`](https://pair-site-awais-md.onrender.com)
 3. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 4. *_DEPLOY ON HEROKU✅_*
-5. °[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/KINGOFXD807/udxdteam65)
+5. °[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/AWAISXD130/test)
 
 
 >👨🏻‍💻 Ƈᴜʀʀᴇɴᴛ Ƨᴛᴀᴛᴜs :
